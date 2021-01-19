@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  width: 90%;
+  height: 600px;
+  background-color: #e5f1fb;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.main h1 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.main p {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+}
+
+.main h2 {
+  font-family: "Roboto", sans-serif;
+  padding-left: 50px;
+  padding-bottom: 20px;
+}
+
+ul {
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+li {
+  list-style-type: decimal;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.exam_link {
+  color: red;
+}
