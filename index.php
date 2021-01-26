@@ -42,7 +42,9 @@
             <a class="exam_link" href="controllers/request.php" target="_blanck">Выполнение</a>
         </li>
         <li>Реализовать несколько способов сделать redirect в PHP
-        <a class="exam_link" href="controllers/redirect.php" target="_blanck">Выполнение</a>
+        <a class="exam_link" href="controllers/redirect.php" target="_blanck">Выполнение редирект xthtp PHP</a>
+        <a class="exam_link" href="controllers/redirect2.php" target="_blanck">Выполнение редирект через JS</a>
+        <a class="exam_link" href="index5.php" target="_blanck">Выполнение редирект через htaccess</a>
         </li>
     </ul>  
     
