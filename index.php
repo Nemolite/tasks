@@ -29,7 +29,7 @@
             <li>Чем отличается Post от Get и когда надо какой использовать?</li>
             <li>Для чего используются DELETE, PUT, BATCH, Option запросы?</li>
         </ul>
-     
+        <a class="exam_link" href="info/info.php" target="_blanck">Ответ</a> 
     <h2>Практика</h2>
     <ul>
         <li>Написать скрипт php, который возвращает код ответа 4хх или 5хх 
@@ -42,22 +42,16 @@
             <a class="exam_link" href="controllers/request.php" target="_blanck">Выполнение</a>
         </li>
         <li>Реализовать несколько способов сделать redirect в PHP
-        <a class="exam_link" href="controllers/redirect.php" target="_blanck">Выполнение</a>
+        <a class="exam_link" href="controllers/redirect.php" target="_blanck">Выполнение редирект xthtp PHP</a>
+        <a class="exam_link" href="controllers/redirect2.php" target="_blanck">Выполнение редирект через JS</a>
+        <a class="exam_link" href="index5.php" target="_blanck">Выполнение редирект через htaccess</a>
         </li>
     </ul>  
     
     
     <p>По теории - можно сформировать для себя документ, где вы сами для себя зафиксируете ответы, чтобы запомнить материал лучше</p>
     <p>По практике - создать репозиторий на github и выгрузить туда практику, залить код в ветку и сделать ПР на ветку мастер (чтобы можно было оставить комментарии по коду)</p>
-
-
-
 </div>
-
-
-
-
-
  <script src="js/script.js"></script>   
 </body>
 </html>

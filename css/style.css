@@ -4,7 +4,7 @@
 }
 .main {
   width: 90%;
-  height: 600px;
+  height: auto;
   background-color: #e5f1fb;
   margin: 0 auto;
   padding-top: 20px;
@@ -45,4 +45,18 @@ li {
 
 .exam_link {
   color: red;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.info {
+  width: 90%;
+  height: auto;
+  background-color: #e5f1fb;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.info p {
+  padding: 20px;
 }
